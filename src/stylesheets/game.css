@@ -1,0 +1,53 @@
+.gameContainer {
+
+    grid-row: 2 / 3;
+    display: grid;
+    grid-template-rows: 1fr 4fr;
+}
+
+img {
+    width: 12rem;
+    height: 12rem;
+}
+
+.cardsContainer {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.picContainer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    border: 1px solid darkred;
+    background-color: darkred;
+}
+
+img {
+    flex-grow: 1;
+}
+
+.picContainer:hover {
+    cursor: pointer;
+    transform: scale(1.22);
+}
+
+.scoreboard {
+    padding-left: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.score {
+    font-family: 'Bloody', sans-serif;
+    color: darkred;
+    font-size: 2rem;
+}
+
+.name {
+    font-family: 'Bloody', sans-serif;
+    text-align: center;
+    color: white;
+}
