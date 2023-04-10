@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.90a63734.css",
+    "main.js": "/memory-game/static/js/main.d21232ec.js",
+    "static/js/787.69b12325.chunk.js": "/memory-game/static/js/787.69b12325.chunk.js",
+    "static/media/scarface.jpg": "/memory-game/static/media/scarface.e95d7492ad05e0fd480d.jpg",
+    "static/media/elChapo.webp": "/memory-game/static/media/elChapo.b1f7b6c92e2c1dae62ff.webp",
+    "static/media/gambino.jpg": "/memory-game/static/media/gambino.94153350b913d2264d3f.jpg",
+    "static/media/griselda.jpg": "/memory-game/static/media/griselda.7b06174344a24787e6e2.jpg",
+    "static/media/bumpyjohnson.jpg": "/memory-game/static/media/bumpyjohnson.343c429569a0acb208ee.jpg",
+    "static/media/pablo.jpg": "/memory-game/static/media/pablo.226f96f95f9a2b07492e.jpg",
+    "static/media/larryhoover.webp": "/memory-game/static/media/larryhoover.ae80427002b38e5c742d.webp",
+    "static/media/bigmeech.jpg": "/memory-game/static/media/bigmeech.f080f7c9d2dce3502a5a.jpg",
+    "static/media/ninobrown.webp": "/memory-game/static/media/ninobrown.70e6b8ce08fed75dc4dd.webp",
+    "static/media/bindy.jpg": "/memory-game/static/media/bindy.83993154c51c792b39dc.jpg",
+    "static/media/al_capone.webp": "/memory-game/static/media/al_capone.4a339623c77060c096d9.webp",
+    "static/media/sosa.jpg": "/memory-game/static/media/sosa.6acf9ed7f0623563178b.jpg",
+    "index.html": "/memory-game/index.html",
+    "main.90a63734.css.map": "/memory-game/static/css/main.90a63734.css.map",
+    "main.d21232ec.js.map": "/memory-game/static/js/main.d21232ec.js.map",
+    "787.69b12325.chunk.js.map": "/memory-game/static/js/787.69b12325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90a63734.css",
+    "static/js/main.d21232ec.js"
+  ]
+}
